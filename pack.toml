@@ -1,0 +1,13 @@
+name = "MagicLives"
+author = "Idir"
+version = "1.16.12"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d3667fca288b0db3f16c25d8faf71417b17ddcd9cde80d8134fd1fe767f724fa"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

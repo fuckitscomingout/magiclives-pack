@@ -1,0 +1,93 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README-hosting.txt"
+hash = "01dba35e3c552938a526e2776361d1673bb6637c66df5a1a72acb8c022127ea3"
+
+[[files]]
+file = "config/cataclysm-common.toml"
+hash = "a59a4c9fca43b7e46a3ad90878670f7e62c5a8e7f2a7213d674b26ef9653558d"
+preserve = true
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+preserve = true
+
+[[files]]
+file = "config/magiclives-spawns.toml"
+hash = "2edcfc0b386c98f4b151ea4918faeac7c4eb8b85e8ebefff0fab0951e42f11ab"
+preserve = true
+
+[[files]]
+file = "config/man_config.toml"
+hash = "47a1e9fb07d69a50e9ab371826d318751af6353e14d03dad619985e58ec8a4d1"
+preserve = true
+
+[[files]]
+file = "config/oculus.properties"
+hash = "30ca94a2c0dd323ec650d0c3edc299648326a08ea7ad6f69d535d4e370d9ee79"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "ff920ecbe932923fc8872802deb4b5e7ccdf4d4f71864739ed5636e36b39c6e9"
+preserve = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "fbf967b492d575d65f066941652400dc32b998a16ac477a4b8f0efc2f681296a"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
+metafile = true
+
+[[files]]
+file = "mods/magiclives-1.16.12+1.20.1-forge.jar"
+hash = "3c3f8d02a7705686f104393fc45c474d3ff5376dd659fd484c2903b870bde902"
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "eec9ff79b99892b38e7589a28af9c9ea428e4ac9d9f62cf82df504dfad4fd97d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria-shaders.pw.toml"
+hash = "24b0264ba35498b6d8d5685132a6ee111d59ed354455145361730a467614004c"
+metafile = true
