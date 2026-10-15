@@ -9,7 +9,9 @@ global = 1.0
 	#Range: 0 ~ 1000
 	legger = 200
 	#Range: 0 ~ 1000
-	leech = 37
+	leech = 110
+	#Range: 0 ~ 1000
+	flesh_mite = 80
 	#Range: 0 ~ 1000
 	false_tree = 25
 	#Range: 0 ~ 1000
@@ -31,6 +33,8 @@ global = 1.0
 	legger = 1.0
 	#Range: 0.0 ~ 10.0
 	leech = 1.0
+	#Range: 0.0 ~ 10.0
+	flesh_mite = 1.0
 	#Range: 0.0 ~ 10.0
 	false_tree = 1.0
 	#Range: 0.0 ~ 10.0
@@ -54,4 +58,3 @@ global = 1.0
 	normal = 1.0
 	#Range: 0.0 ~ 10.0
 	hard = 1.5
-
