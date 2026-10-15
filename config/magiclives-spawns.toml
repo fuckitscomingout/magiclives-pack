@@ -1,0 +1,57 @@
+#Global multiplier on all of the above
+#Range: 0.0 ~ 10.0
+global = 1.0
+
+#Base spawn weight of each mob at NORMAL difficulty (vanilla zombie = 100). Changes apply on the next world load.
+[weights]
+	#Range: 0 ~ 1000
+	cannibal = 50
+	#Range: 0 ~ 1000
+	legger = 200
+	#Range: 0 ~ 1000
+	leech = 37
+	#Range: 0 ~ 1000
+	false_tree = 25
+	#Range: 0 ~ 1000
+	burrower = 8
+	#Range: 0 ~ 1000
+	temptress = 3
+	#Range: 0 ~ 1000
+	latcher = 8
+	#Range: 0 ~ 1000
+	flesh_enderman = 5
+	#Range: 0 ~ 1000
+	leviathan = 1
+
+#Live per-mob multipliers (1.0 = base weight). Editable in game: /magiclives spawns set <mob> <x>
+[mobs]
+	#Range: 0.0 ~ 10.0
+	cannibal = 1.0
+	#Range: 0.0 ~ 10.0
+	legger = 1.0
+	#Range: 0.0 ~ 10.0
+	leech = 1.0
+	#Range: 0.0 ~ 10.0
+	false_tree = 1.0
+	#Range: 0.0 ~ 10.0
+	burrower = 1.0
+	#Range: 0.0 ~ 10.0
+	temptress = 1.0
+	#Range: 0.0 ~ 10.0
+	latcher = 1.0
+	#Range: 0.0 ~ 10.0
+	flesh_enderman = 1.0
+	#Range: 0.0 ~ 10.0
+	leviathan = 1.0
+
+#Spawn-rate multipliers per difficulty (also applied to the timed Chimp and Skin Stealer spawn chances)
+[difficulty]
+	#Range: 0.0 ~ 10.0
+	peaceful = 0.0
+	#Range: 0.0 ~ 10.0
+	easy = 0.6
+	#Range: 0.0 ~ 10.0
+	normal = 1.0
+	#Range: 0.0 ~ 10.0
+	hard = 1.5
+
