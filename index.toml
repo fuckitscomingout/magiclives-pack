@@ -5,6 +5,10 @@ file = "README-hosting.txt"
 hash = "01dba35e3c552938a526e2776361d1673bb6637c66df5a1a72acb8c022127ea3"
 
 [[files]]
+file = "README.md"
+hash = "91c125d53fcfa4134534f423bf7f32b63cc8d3c73f98a1af3b816bc4c256048d"
+
+[[files]]
 file = "config/cataclysm-common.toml"
 hash = "a59a4c9fca43b7e46a3ad90878670f7e62c5a8e7f2a7213d674b26ef9653558d"
 preserve = true
@@ -69,8 +73,8 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/magiclives-1.16.13+1.20.1-forge.jar"
-hash = "71f59f0248eea19130455b42c084a385ad59b2d89949c892e94dba10edfcbac9"
+file = "mods/magiclives-1.17.0+1.20.1-forge.jar"
+hash = "f03bafd5840218d28582c0a30e267b66c982759376703e153e3261287606f1e5"
 
 [[files]]
 file = "mods/oculus.pw.toml"
