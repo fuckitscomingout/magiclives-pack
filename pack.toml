@@ -1,12 +1,12 @@
 name = "MagicLives"
 author = "Idir"
-version = "1.17.4b"
+version = "1.17.4c"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f4d9b55d42551ba456917288000c495f3c048ceeab302eabc9e187bde8cef6d3"
+hash = "b0728906759b1a117cd99407bb1c2b3d742f39d5dea9046211aa248a9504d167"
 
 [versions]
 forge = "47.4.10"
