@@ -24,6 +24,16 @@ global = 1.0
 	flesh_enderman = 5
 	#Range: 0 ~ 1000
 	leviathan = 1
+	#Range: 0 ~ 1000
+	meat_rug = 6
+	#Range: 0 ~ 1000
+	swirl = 5
+	#Range: 0 ~ 1000
+	ribeye = 4
+	#Range: 0 ~ 1000
+	fetal_crawler = 6
+	#Range: 0 ~ 1000
+	titan = 1
 
 #Live per-mob multipliers (1.0 = base weight). Editable in game: /magiclives spawns set <mob> <x>
 [mobs]
@@ -47,6 +57,16 @@ global = 1.0
 	flesh_enderman = 1.0
 	#Range: 0.0 ~ 10.0
 	leviathan = 1.0
+	#Range: 0.0 ~ 10.0
+	meat_rug = 1.0
+	#Range: 0.0 ~ 10.0
+	swirl = 1.0
+	#Range: 0.0 ~ 10.0
+	ribeye = 1.0
+	#Range: 0.0 ~ 10.0
+	fetal_crawler = 1.0
+	#Range: 0.0 ~ 10.0
+	titan = 1.0
 
 #Spawn-rate multipliers per difficulty (also applied to the timed Chimp and Skin Stealer spawn chances)
 [difficulty]
