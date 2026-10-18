@@ -20,7 +20,7 @@ preserve = true
 
 [[files]]
 file = "config/magiclives-spawns.toml"
-hash = "e7a45ffa5e592c27942fcf26f911910df544f3563ea52ba047122ac668e3a5a1"
+hash = "f704b08b6456fd5357eb92edfe2f1d0a56e2525b6d6765913f6e93f1f36ebe6e"
 preserve = true
 
 [[files]]
@@ -73,8 +73,8 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/magiclives-1.17.0+1.20.1-forge.jar"
-hash = "f03bafd5840218d28582c0a30e267b66c982759376703e153e3261287606f1e5"
+file = "mods/magiclives-1.17.4+1.20.1-forge.jar"
+hash = "d1b0e1319558495912d7d13c424dc70ec48816cfe02540023619a0b67d21f20b"
 
 [[files]]
 file = "mods/oculus.pw.toml"
