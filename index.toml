@@ -6,7 +6,7 @@ hash = "01dba35e3c552938a526e2776361d1673bb6637c66df5a1a72acb8c022127ea3"
 
 [[files]]
 file = "README.md"
-hash = "91c125d53fcfa4134534f423bf7f32b63cc8d3c73f98a1af3b816bc4c256048d"
+hash = "7c532024cff3a39769633c1389d0461d826379d0db898accd691b8c92fcaf4c0"
 
 [[files]]
 file = "config/cataclysm-common.toml"
@@ -30,7 +30,7 @@ preserve = true
 
 [[files]]
 file = "config/oculus.properties"
-hash = "30ca94a2c0dd323ec650d0c3edc299648326a08ea7ad6f69d535d4e370d9ee79"
+hash = "67c6322303869c9c38684e79a07a35c08e83903defb851fbd86a8615a7c51834"
 preserve = true
 
 [[files]]
@@ -73,8 +73,8 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/magiclives-1.20f+1.20.1-forge.jar"
-hash = "edb3b1de9ee10425526d497af8de6e82b08c833034166f1502b1590664c8819c"
+file = "mods/magiclives-1.20g+1.20.1-forge.jar"
+hash = "09b12a21f25e9300d55160cd514d547d09c2ec742bf879ed4f6bb07e23bb0802"
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -94,4 +94,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/hysteria-shaders.pw.toml"
 hash = "24b0264ba35498b6d8d5685132a6ee111d59ed354455145361730a467614004c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/spooklementary.pw.toml"
+hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
 metafile = true

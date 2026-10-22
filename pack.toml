@@ -1,12 +1,12 @@
-name = "MagicLives"
+name = "FleshCraft"
 author = "Idir"
-version = "1.20f"
+version = "1.20g"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f7bbef243bb2aee98f651579a0e176087ad7292aab043446467435d5ff89136a"
+hash = "28258f43cd83da45fce86c36f4b88486fe294eb07ab6afeafa2bb3cebb820a2a"
 
 [versions]
 forge = "47.4.10"
