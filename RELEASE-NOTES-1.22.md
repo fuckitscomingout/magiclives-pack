@@ -17,3 +17,6 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - Three new bad dreams (drowning, your home, the stairwell). Dreams cost no lives; getting caught leaves you hurt.
 - The guide has been rewritten in short, practical tips.
 - Shaders: Spooklementary is now on by default (Oculus).
+- 1.22.2: Boss sites near spawn. Each boss that has a place in the world now has one within 1000 blocks of spawn (not on top of anyone's builds), and they show up on your Xaero's minimap and as waypoints by themselves when you join.
+- 1.22.2: Fixed a server freeze when a player with several bases logged in (Ore Thief raid planning).
+- 1.22.3-test (beta): early 1.22.3 test build (Fake House, boss anti-range counters, lag fixes) plus boss test kits (/devtest kit, needs cheats or op).
