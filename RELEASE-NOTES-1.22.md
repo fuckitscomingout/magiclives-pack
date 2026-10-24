@@ -38,3 +38,9 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.6: The guide map's legend and status line now fit on the screen at every GUI scale.
 - 1.22.6: The Marrow Spitter's hitbox now matches its body, so it is easier to hit, and it no longer suffocates when it climbs into a ceiling.
 - 1.22.6: Fixed a missing-sound warning and some noisy server log lines.
+- 1.22.7: The guide (J) now opens with "Your Goal: Nine Keys", has a YOUR GOAL box on the contents page, and a working Back button (Backspace also works). The book is bigger at small GUI scales.
+- 1.22.7: The map in the guide no longer has a legend. Hover over an icon to see its name, its coordinates and how far away it is.
+- 1.22.7: Drowned chapel roofs now sit on their walls. Abandoned churches no longer get cut into hillsides with floating terrain above them.
+- 1.22.7: The Beast can't hit you right next to a Nether portal and leaves when you stand by one, no longer spins in place when you are very close, and climbs over walls instead of banging on them.
+- 1.22.7: Better hitboxes: the Leviathan can be hit all the way to its tail, and The Host, the Hunter and the Cannibal Brute can be hit on their arms and upper body.
+- 1.22.7: Server world regen: every boss site (plus the Sinkhole and The Door) can be planned within 1000 blocks of spawn, with a spruce forest ring around the kept base.
