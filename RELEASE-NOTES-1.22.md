@@ -30,3 +30,11 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.4: The world map planner now places all 18 boss sites.
 - 1.22.5: New worlds are created much faster: boss planning takes about 36 seconds instead of about 11 minutes.
 - 1.22.5: On fresh worlds all 18 bosses now get a site, including the Wailing Head.
+- 1.22.6: Loading new chunks causes much less lag (about 76% fewer "can't keep up" stalls in our test).
+- 1.22.6: The Flesh Pit and the Sinkhole no longer leak water or lava out of their walls.
+- 1.22.6: The Drowned Basilica crypt is fully sealed.
+- 1.22.6: The Beast no longer gets stuck in narrow doorways, goes through smashed glass, finds another climb route under overhangs, and follows you up raised slabs.
+- 1.22.6: The Sunken Colossus can no longer be safely farmed from its feet or from high above: it stomps players at its feet and the current crushes players hovering above it.
+- 1.22.6: The guide map's legend and status line now fit on the screen at every GUI scale.
+- 1.22.6: The Marrow Spitter's hitbox now matches its body, so it is easier to hit, and it no longer suffocates when it climbs into a ceiling.
+- 1.22.6: Fixed a missing-sound warning and some noisy server log lines.
