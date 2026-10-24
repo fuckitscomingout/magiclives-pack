@@ -20,3 +20,11 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.2: Boss sites near spawn. Each boss that has a place in the world now has one within 1000 blocks of spawn (not on top of anyone's builds), and they show up on your Xaero's minimap and as waypoints by themselves when you join.
 - 1.22.2: Fixed a server freeze when a player with several bases logged in (Ore Thief raid planning).
 - 1.22.3-test (beta): early 1.22.3 test build (Fake House, boss anti-range counters, lag fixes) plus boss test kits (/devtest kit, needs cheats or op).
+- 1.22.4: The Sunken Colossus now fights in a new hall, the Drowned Basilica.
+- 1.22.4: New outsides for the Sunken Crypt, Butcher's Barn, Abandoned Church, Watchtower and Inn.
+- 1.22.4: The Suckling has a new look, and when one latches onto your face you can now see it in first person.
+- 1.22.4: The Witness now has one big bloodshot eye.
+- 1.22.4: Beast fixes (smarter paths, no more getting stuck on glass, doors or tree canopies, steadier river crossings) and it now sometimes crawls up walls like a spider.
+- 1.22.4: All bosses have 7% less health. The Amalgam calls in 35% fewer helpers.
+- 1.22.4: Structure search no longer lags the server, and structures no longer overlap each other.
+- 1.22.4: The world map planner now places all 18 boss sites.
