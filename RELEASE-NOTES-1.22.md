@@ -28,3 +28,5 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.4: All bosses have 7% less health. The Amalgam calls in 35% fewer helpers.
 - 1.22.4: Structure search no longer lags the server, and structures no longer overlap each other.
 - 1.22.4: The world map planner now places all 18 boss sites.
+- 1.22.5: New worlds are created much faster: boss planning takes about 36 seconds instead of about 11 minutes.
+- 1.22.5: On fresh worlds all 18 bosses now get a site, including the Wailing Head.
