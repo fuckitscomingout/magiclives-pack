@@ -60,3 +60,7 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.9: Sunken Colossus hits 10% harder (all attacks).
 - 1.22.9: Sunken Colossus spreads its attacks in multiplayer: slams, the key pull and its scavengers go after whoever it hasn't hit lately, not always the closest player. Anyone standing in reach still gets hit.
 - 1.22.9: Sunken Colossus swat: the arm now sweeps across a red arc you can see building up (rising bubbles where the arm draws back, a whoosh before it swings). Step out of the red band to dodge; if it connects it throws you sideways along the swing.
+- 1.22.10: The Beast: shorter random breaks between hunts. Alone: 30 s to 3 min. With friends: 30 s to 2 min 50 s, and each player's own break after being hunted is also 30 s to 2 min 50 s.
+- 1.22.10: The Beast gets angry much faster: its aggression climbs from 100% to 200% over your first 20 minutes in the Nether (it used to take over 3 hours). Deeper layers still add more, and it calms down when everyone leaves the Nether.
+- 1.22.10: The Beast's chases stretch to at most 1.5x at top aggression (was 1.75x).
+- 1.22.10: The Beast only ever comes for you on its own schedule: spotting it or walking up to it outside a hunt never starts one.
