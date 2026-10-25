@@ -44,3 +44,11 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.7: The Beast can't hit you right next to a Nether portal and leaves when you stand by one, no longer spins in place when you are very close, and climbs over walls instead of banging on them.
 - 1.22.7: Better hitboxes: the Leviathan can be hit all the way to its tail, and The Host, the Hunter and the Cannibal Brute can be hit on their arms and upper body.
 - 1.22.7: Server world regen: every boss site (plus the Sinkhole and The Door) can be planned within 1000 blocks of spawn, with a spruce forest ring around the kept base.
+- 1.22.8: The Sunken Colossus room has a new designed floor: a lit carpet from the entrance to the boss, compass roses, a shallow moat with bridges around the dais and a big rose under the Colossus.
+- 1.22.8: The Sunken Colossus has a thicker body, and its hitboxes match. Standing beside its arms or head is no longer safe: it swats you there (watch for the red ring), and arrows and tridents fired from there do less damage.
+- 1.22.8: The guide is readable at GUI scale 1. Every item you can get now has a guide entry (5 new pages), and entries for items that don't exist were removed.
+- 1.22.8: Essence Syringe: same 2 minute buffs and +5 hearts, but you have to wait 10 minutes before the next one works.
+- 1.22.8: Item balance: the Flesh Knight's limbo walls can't be mined; summoned Crucified stop getting stronger after the 10th; Pit tiers 1-3 have cooldowns; the Gravedigger's Shovel and Coat are weaker and drop 35% of the time; the Host's Carving Knife does 7 damage; the Icon of Strength gives x1.35 melee and wears off after 3 days; a Nether Static key is guaranteed by the 25th chest.
+- 1.22.8: Buffs: the Flesh Knight's Helm gives armor and stops Bleed; the Scoutmaster's Hatchet swings faster and drops more often; the Shotgun can be repaired with Iron Ingots in an anvil. The Hunter's Bow guide page shows the right damage.
+- 1.22.8: New outsides for the Dingy House, Hollow Village houses and the Overgrown Hospital (new worlds/new chunks only).
+- 1.22.8: Linux: there is now a FleshCraft setup for Linux (fleshcraft-setup-linux).
