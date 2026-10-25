@@ -5,6 +5,7 @@ A Minecraft 1.20.1 Forge horror pack. Everything here is alive, and most of it i
 **Play:** download one file and double-click it. It installs everything and joins the server by itself.
 - Windows: https://github.com/fuckitscomingout/magiclives-pack/releases/latest/download/FleshCraft-Setup.exe
 - Mac: https://github.com/fuckitscomingout/magiclives-pack/releases/latest/download/FleshCraft-Setup-Mac.zip
+  - **On a Mac? Read the [easy Mac guide](MAC-GUIDE.md) first.** (Mac blocks the setup the first time, and the guide shows how to allow it.)
 
 Server: `15.235.4.37:25628` (already added for you).
 
