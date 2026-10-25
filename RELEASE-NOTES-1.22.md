@@ -52,3 +52,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.8: Buffs: the Flesh Knight's Helm gives armor and stops Bleed; the Scoutmaster's Hatchet swings faster and drops more often; the Shotgun can be repaired with Iron Ingots in an anvil. The Hunter's Bow guide page shows the right damage.
 - 1.22.8: New outsides for the Dingy House, Hollow Village houses and the Overgrown Hospital (new worlds/new chunks only).
 - 1.22.8: Linux: there is now a FleshCraft setup for Linux (fleshcraft-setup-linux).
+- 1.22.8.1: With Hysteria shaders on, the Nether is now about as dark as with shaders off (pack-only update, same mod 1.22.8).

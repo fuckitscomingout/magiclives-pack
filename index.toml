@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MAC-GUIDE.md"
+hash = "9a2b52568e3b63297e4a97b65204421d00cda6b83a76338c8572022197c3c8b1"
+
+[[files]]
 file = "README-hosting.txt"
 hash = "01dba35e3c552938a526e2776361d1673bb6637c66df5a1a72acb8c022127ea3"
 
 [[files]]
 file = "README.md"
-hash = "7c532024cff3a39769633c1389d0461d826379d0db898accd691b8c92fcaf4c0"
+hash = "2cb963c51ad440052ccab1e095fc36d36a4101d49006ddb4792ff4d85133589f"
 
 [[files]]
 file = "config/cataclysm-common.toml"
@@ -90,6 +94,10 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip.txt"
+hash = "593cbd5dc71505bfd33bf30c946a285567f60c92a634e1b6440584652152d823"
 
 [[files]]
 file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
