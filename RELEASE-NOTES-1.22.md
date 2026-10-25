@@ -53,3 +53,10 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.8: New outsides for the Dingy House, Hollow Village houses and the Overgrown Hospital (new worlds/new chunks only).
 - 1.22.8: Linux: there is now a FleshCraft setup for Linux (fleshcraft-setup-linux).
 - 1.22.8.1: With Hysteria shaders on, the Nether is now about as dark as with shaders off (pack-only update, same mod 1.22.8).
+- 1.22.9: The Beast: the time between hunts is now random (30 s to 4.5 min alone; with friends 30 s to 3.5 min, and each player also gets a random break after being hunted), so you can't count down to the next hunt.
+- 1.22.9: The Beast bangs on the walls much more often between hunts: random, slow, heavy knocks (1-4 at a time). It still never shows itself until it hunts.
+- 1.22.9: Boss health bars no longer get stuck on screen: they disappear as soon as a boss dies or despawns, or when you go far away or change dimension.
+- 1.22.9: Sunken Colossus: it no longer crushes you when you are above the crypt roof, at the surface, or in a boat. Players high up in its hall who are fighting it still get crushed, and the ink now comes from below.
+- 1.22.9: Sunken Colossus hits 10% harder (all attacks).
+- 1.22.9: Sunken Colossus spreads its attacks in multiplayer: slams, the key pull and its scavengers go after whoever it hasn't hit lately, not always the closest player. Anyone standing in reach still gets hit.
+- 1.22.9: Sunken Colossus swat: the arm now sweeps across a red arc you can see building up (rising bubbles where the arm draws back, a whoosh before it swings). Step out of the red band to dodge; if it connects it throws you sideways along the swing.
