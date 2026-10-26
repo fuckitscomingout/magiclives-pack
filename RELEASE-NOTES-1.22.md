@@ -78,3 +78,10 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.14: After the opening scream the Beast now reaches you in about 8 to 20 seconds, usually around 12. It waits out of sight first instead of being on you instantly, and it never appears in front of you.
 - 1.22.14: Fix: before it has reached you, outrunning the Beast no longer ends the hunt early; it moves out of sight and comes back for you. If it truly cannot reach you (sealed in), the hunt still ends as before.
 - 1.22.14: Fixes: a Watcher's Eye no longer outlines the Beast through walls while it is hidden; the "There's Something Else Here" advancement now needs you to actually see the Beast; when the Beast breaks into a sealed room its opening scream no longer plays on top of the break-through shriek.
+- 1.22.15: The Beast never reaches you sooner than 8 seconds after its opening scream, even if you run toward it. If it gets close early, it stops and stares until the time is up.
+- 1.22.15: Sealing yourself in obsidian or other blast-proof blocks (crying obsidian, ancient debris, netherite, reinforced deepslate, ender chests) no longer keeps the Beast out. It bangs through them slowly. Bedrock and the world border still stop it.
+- 1.22.15: Hiding in a one-block-high crawl space no longer keeps the Beast out. It breaks into the space.
+- 1.22.15: Shields no longer block the Beast forever. Its swipe knocks your shield out, like an axe does.
+- 1.22.15: Logging out during a hunt no longer gets rid of the Beast. When you log back in inside the Nether, it comes for you again within 10 to 20 seconds.
+- 1.22.15: Fix: while the Beast is hidden, your game is no longer told where it is, and you can no longer hit it, bump into it or target it.
+- 1.22.15: Fix: a rare server crash when the Nether rebuilds itself (a jack o'lantern placed next to an unloaded area) no longer happens.
