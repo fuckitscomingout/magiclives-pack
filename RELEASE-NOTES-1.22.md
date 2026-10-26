@@ -64,3 +64,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.10: The Beast gets angry much faster: its aggression climbs from 100% to 200% over your first 20 minutes in the Nether (it used to take over 3 hours). Deeper layers still add more, and it calms down when everyone leaves the Nether.
 - 1.22.10: The Beast's chases stretch to at most 1.5x at top aggression (was 1.75x).
 - 1.22.10: The Beast only ever comes for you on its own schedule: spotting it or walking up to it outside a hunt never starts one.
+- 1.22.11: The Beast's clap looks like a real clap now: it draws its arms back wide, swings them in and slams its palms together right in front of its face on the clap sound, then lets its arms drop. It stands still while it claps instead of running in place.
