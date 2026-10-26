@@ -85,3 +85,5 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.15: Logging out during a hunt no longer gets rid of the Beast. When you log back in inside the Nether, it comes for you again within 10 to 20 seconds.
 - 1.22.15: Fix: while the Beast is hidden, your game is no longer told where it is, and you can no longer hit it, bump into it or target it.
 - 1.22.15: Fix: a rare server crash when the Nether rebuilds itself (a jack o'lantern placed next to an unloaded area) no longer happens.
+- 1.22.16: If you switch to creative or spectator mode during a hunt, the Beast stops hunting you.
+- 1.22.16: The Beast no longer breaks a Nether portal's frame (or the blocks right around it), or monster spawners, when it breaks through walls.
