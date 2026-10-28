@@ -87,3 +87,8 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.15: Fix: a rare server crash when the Nether rebuilds itself (a jack o'lantern placed next to an unloaded area) no longer happens.
 - 1.22.16: If you switch to creative or spectator mode during a hunt, the Beast stops hunting you.
 - 1.22.16: The Beast no longer breaks a Nether portal's frame (or the blocks right around it), or monster spawners, when it breaks through walls.
+- 1.22.17: The Maw and the Titan now show boss bars, and a hurt Titan no longer vanishes when you walk away. The Titan can no longer be dodged from a pillar or a narrow gap.
+- 1.22.17: Arrows fired from far away do less damage to most bosses (never less than 15% of a normal hit); bosses built to be fought at range are not affected.
+- 1.22.17: A Nether reset no longer freezes the server; the area around portals and players is rebuilt right away and the rest follows in the background.
+- 1.22.17: Tamed, named, saddled or leashed animals, villagers and allays are kept in the Nether; chest boats smashed by the Maw drop their contents; teammates can free a grabbed player; Nether paintings stay on the wall; boss phase fixes.
+- 1.22.17: Hunter's Bow hits 20% harder than a normal bow and scales with draw (about 7 to 12 at full draw). The old Hunting Bow is gone; any you own still turns into a Hunter's Bow.
