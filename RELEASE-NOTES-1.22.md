@@ -101,3 +101,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.18: Fixed a boss bar that could stay on screen after the boss vanished or despawned.
 - 1.22.18: Beast: several bug fixes. Chests and shulker boxes it breaks now drop with everything inside.
 - 1.22.19: Beast footsteps no longer cut out during chases.
+- 1.22.20: Fixes: admin-only commands are now really admin-only; boss keys always drop; the Nether reset no longer stalls on memory; anvil enchants need a key every time; the Crucified Spider keeps your damage credit; the Beast can knock down pillars topped with beds, campfires and chests (contents drop); boss shooting timers survive restarts properly; the Meat Brute sees you on fences, walls, scaffolding and powder snow; Knight Limbo choices only work for players who fell to the Knight.
