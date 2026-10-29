@@ -92,3 +92,11 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.17: A Nether reset no longer freezes the server; the area around portals and players is rebuilt right away and the rest follows in the background.
 - 1.22.17: Tamed, named, saddled or leashed animals, villagers and allays are kept in the Nether; chest boats smashed by the Maw drop their contents; teammates can free a grabbed player; Nether paintings stay on the wall; boss phase fixes.
 - 1.22.17: Hunter's Bow hits 20% harder than a normal bow and scales with draw (about 7 to 12 at full draw). The old Hunting Bow is gone; any you own still turns into a Hunter's Bow.
+- 1.22.18: A Nether reset no longer makes smaller servers run out of memory. The reset now paces itself, so the Nether can take a bit longer to reopen after everyone has left it.
+- 1.22.18: Bosses only drop loot when players have really fought them. A boss killed only by traps, lava or commands drops nothing.
+- 1.22.18: The Titan's arrow resistance now also counts fireworks, multishot crossbows, and arrows or fireworks shot from dispensers, and it keeps that resistance when the area unloads.
+- 1.22.18: The Titan's slam now breaks through shields and walls you hide behind. Ores it smashes still drop as normal, and it respects claimed land.
+- 1.22.18: The Cannibal Brute can no longer be dodged by standing on a pillar or sneaking on the edge of a block.
+- 1.22.18: Bosses now remember how much you have been shooting them across a server restart.
+- 1.22.18: Fixed a boss bar that could stay on screen after the boss vanished or despawned.
+- 1.22.18: Beast: several bug fixes. Chests and shulker boxes it breaks now drop with everything inside.
