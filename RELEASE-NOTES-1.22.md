@@ -100,3 +100,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.18: Bosses now remember how much you have been shooting them across a server restart.
 - 1.22.18: Fixed a boss bar that could stay on screen after the boss vanished or despawned.
 - 1.22.18: Beast: several bug fixes. Chests and shulker boxes it breaks now drop with everything inside.
+- 1.22.19: Beast footsteps no longer cut out during chases.
