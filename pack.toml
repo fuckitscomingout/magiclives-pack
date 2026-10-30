@@ -1,12 +1,12 @@
 name = "FleshCraft"
 author = "Idir"
-version = "1.22.21"
+version = "1.22.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "65dfa580eae0159ee9a984fe28ed95ee7926456926d3d0c815ea139e0913a211"
+hash = "1818dce091dd0760225373c589466de167a68c80a112bd966b54cee6c8b76633"
 
 [versions]
 forge = "47.4.10"
