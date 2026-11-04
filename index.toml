@@ -77,8 +77,8 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/magiclives-1.22.28+1.20.1-forge.jar"
-hash = "ec03d4f466d62f53bac79fafdbdbf7c8443bc5be50f3ac459b6c82824ec33392"
+file = "mods/magiclives-1.22.29+1.20.1-forge.jar"
+hash = "cb7c3751c29bbb6a91c0d2d65c0bf3e0e9abe63e695bcfd962651e1ffa93c29b"
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -101,8 +101,7 @@ hash = "593cbd5dc71505bfd33bf30c946a285567f60c92a634e1b6440584652152d823"
 
 [[files]]
 file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
-hash = "b7068fde2e55f919d72f67647e055773f92e938e323046bd37c32e98b1949707"
-preserve = true
+hash = "d243b61a7fa3cd830dc290cd5071f3ceaf3865f9ffce93b88ab8ed3ae71c3f7d"
 
 [[files]]
 file = "shaderpacks/hysteria-shaders.pw.toml"
