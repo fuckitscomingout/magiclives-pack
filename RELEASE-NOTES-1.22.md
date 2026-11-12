@@ -120,3 +120,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.37: The flavor lines that appeared on the action bar when you first walked into certain Nether rooms (for example, "The hooks sway. It's freezing in here.") are gone. The rooms themselves, and their sounds and other effects, are unchanged.
 - 1.22.38: Fixes a server crash when new Nether areas generate, a bleed-effect glitch after resizing the window, a house painting that never spawned, and house paintings that were sometimes skipped. The guide now shows the current Revive Syringe recipe. Map requests no longer spam.
 - 1.22.39: Titans drop less hardened skin: usually none, sometimes 1, rarely 2.
+- 1.22.40: Titans no longer spawn in pairs; renamed to Titan.
