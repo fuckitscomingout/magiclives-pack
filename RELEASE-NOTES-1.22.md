@@ -121,3 +121,4 @@ Everyone on a server needs the same version. The pack updates the mod by itself 
 - 1.22.38: Fixes a server crash when new Nether areas generate, a bleed-effect glitch after resizing the window, a house painting that never spawned, and house paintings that were sometimes skipped. The guide now shows the current Revive Syringe recipe. Map requests no longer spam.
 - 1.22.39: Titans drop less hardened skin: usually none, sometimes 1, rarely 2.
 - 1.22.40: Titans no longer spawn in pairs; renamed to Titan.
+- 1.22.41: Nether voids are deep again; the Beast can crawl under bridges; new faded overworld room. Leftover flavor sentences that were no longer shown are gone. The first time you look down into a Nether pit, the view down the shaft holds steady and only happens once. Late Bleed II no longer uses the spinning warp; the view goes soft and double, like stacked frames, and eases out when the wound is treated.
