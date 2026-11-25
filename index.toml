@@ -77,8 +77,8 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/magiclives-1.22.50+1.20.1-forge.jar"
-hash = "bb440d4901458cfa8332d49994dfdf483debcbcca90b6f6cb43932fdda224561"
+file = "mods/magiclives-0.7+1.20.1-forge.jar"
+hash = "d622304ff9f950fbd3cdea5350a75848613b086f5d93c69c18cfae3bad968e14"
 
 [[files]]
 file = "mods/oculus.pw.toml"
