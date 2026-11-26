@@ -16,5 +16,5 @@ Server: `15.235.4.37:25628` (already added for you).
   Complementary License Agreement 1.6. Shader problems in this pack are the pack author's responsibility, please don't
   report them to SpacEagle17 or EminGT.
 - Shader loader: [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) with [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium).
-- Also in the pack: L_Ender's Cataclysm, The Man From The Fog, GeckoLib, Curios, Lionfish API, Xaero's Minimap,
+- Also in the pack: The Man From The Fog, GeckoLib, Curios, Xaero's Minimap,
   FerriteCore, Hysteria Shaders (alternative shader pack).
