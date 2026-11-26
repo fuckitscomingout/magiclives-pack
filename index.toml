@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MAC-GUIDE.md"
-hash = "9a2b52568e3b63297e4a97b65204421d00cda6b83a76338c8572022197c3c8b1"
+hash = "1a1f2cdbc9ad63e77276f818b2f5570de463449cdfb34b3b3bb14bf72a4bc199"
 
 [[files]]
 file = "README-hosting.txt"
@@ -10,7 +10,7 @@ hash = "423d72a4a95cba88bdec847cc6791ffe0492b0c51075423bfd7f3c284fe82501"
 
 [[files]]
 file = "README.md"
-hash = "2cb963c51ad440052ccab1e095fc36d36a4101d49006ddb4792ff4d85133589f"
+hash = "f355e2c70a9a577f1b579f2432149506c6f983bdf414f95d2fcf177e7148397d"
 
 [[files]]
 file = "config/curios-common.toml"
